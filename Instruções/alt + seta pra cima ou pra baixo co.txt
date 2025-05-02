@@ -1,0 +1,4 @@
+alt + seta pra cima ou pra baixo controla uma linha
+alt + shift + seta cima ou baixo duplica uma linha
+
+terminal - cmd > npm i prompt-sync
